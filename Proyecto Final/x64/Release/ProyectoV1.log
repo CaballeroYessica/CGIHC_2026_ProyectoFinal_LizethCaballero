@@ -1,0 +1,144 @@
+﻿  Camera.cpp
+  DirectionalLight.cpp
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\DirectionalLight.cpp(18,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\DirectionalLight.cpp(19,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\DirectionalLight.cpp(21,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\DirectionalLight.cpp(22,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  Light.cpp
+  Material.cpp
+  Mesh_tn.cpp
+  Model.cpp
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Model.cpp(17,88): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Model.cpp(17,88):
+      los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Model.cpp(52,7): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Model.cpp(111,78): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Model.cpp(111,62): warning C4267: 'argumento': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Model.cpp(133,40): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Model.cpp(142,40): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PointLight.cpp
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\PointLight.cpp(28,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\PointLight.cpp(29,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\PointLight.cpp(30,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\PointLight.cpp(32,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\PointLight.cpp(33,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\PointLight.cpp(34,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\PointLight.cpp(35,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  main.cpp
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\main.cpp(249,24): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\main.cpp(586,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\main.cpp(588,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Shader_light.cpp
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(108,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(108,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(111,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(111,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(114,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(114,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(117,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(117,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(120,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(120,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(123,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(123,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(126,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(126,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(136,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(136,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(139,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(139,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(142,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(142,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(145,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(145,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(148,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(148,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(151,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(151,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(154,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(154,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(157,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(157,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(160,38): warning C4477: 'snprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+      C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(160,38):
+      considere el uso de ' %zd' en la cadena de formato
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(214,75): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(214,26): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(213,91): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(213,42): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(227,98): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(227,62): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(227,24): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(226,70): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(226,24): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(225,88): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(225,42): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Shader_light.cpp(276,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+  Skybox.cpp
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Skybox.cpp(39,47): warning C4267: 'argumento': conversión de 'size_t' a 'GLenum'; posible pérdida de datos
+  Sphere.cpp
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Sphere.cpp(39,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Sphere.cpp(43,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Sphere.cpp(91,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Sphere.cpp(94,51): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Sphere.cpp(98,50): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Sphere.cpp(108,42): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  SpotLight.cpp
+  Texture.cpp
+  Window.cpp
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.cpp(293,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.cpp(294,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.cpp(298,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.cpp(299,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.cpp(301,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.cpp(302,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\ProyectoV1\Window.cpp(114): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  All 1052 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  ProyectoV1.vcxproj -> C:\Users\lesly\Documents\FI\Lab. Compu Gráfica\Proyecto\Codigo\ProyectoV1\ProyectoV1\x64\Release\ProyectoV1.exe

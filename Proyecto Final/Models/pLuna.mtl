@@ -1,0 +1,13 @@
+# Blender 4.5.2 LTS MTL File: 'centroPoke.blend'
+# www.blender.org
+
+newmtl Material.001
+Ka 0.388889 0.388889 0.388889
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd rustic_stone_wall_diff_4k.jpg
+map_Ns rustic_stone_wall_rough_4k.exr
+map_Bump -bm 1.000000 rustic_stone_wall_nor_gl_4k.exr
